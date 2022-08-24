@@ -2,7 +2,7 @@
 id: 14eo221bhkk4w9lk1h9rjpd
 title: Feature Testing
 desc: ''
-updated: 1661370870569
+updated: 1661371792879
 created: 1661350448945
 ---
 
@@ -29,8 +29,8 @@ $$\sum_{i}^{\infty}$$
 <script src="https://giscus.app/client.js"
         data-repo="Mjvolk3/Mjvolk3"
         data-repo-id="R_kgDOH3S0WQ"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOH3S0Wc4CRB6f"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
