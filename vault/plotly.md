@@ -1,6 +1,6 @@
 ---
 id: 14eo221bhkk4w9lk1h9rjpd
-title: Embedded Plot
+title: Plotly
 desc: ''
 updated: 1661350500800
 created: 1661350448945
