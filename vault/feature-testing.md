@@ -2,7 +2,7 @@
 id: 14eo221bhkk4w9lk1h9rjpd
 title: Feature Testing
 desc: ''
-updated: 1661455053158
+updated: 1661465338570
 created: 1661350448945
 ---
 
@@ -23,6 +23,10 @@ Here is some inline $\sum_{i}^{\infty}$
 Not inline: $$\sum_{i}^{\infty}$$
 
 $$\sum_{i}^{\infty}$$
+
+## Desmos
+
+<iframe src="https://www.desmos.com/calculator/3yzzqveabo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 ## Comments and Discussion
 
