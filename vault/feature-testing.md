@@ -2,7 +2,7 @@
 id: 14eo221bhkk4w9lk1h9rjpd
 title: Feature Testing
 desc: ''
-updated: 1661454943953
+updated: 1661455053158
 created: 1661350448945
 ---
 
@@ -25,6 +25,8 @@ Not inline: $$\sum_{i}^{\infty}$$
 $$\sum_{i}^{\infty}$$
 
 ## Comments and Discussion
+
+- Note: If navigating from another page they will not appear. Refresh the browser to see comments and discussion.
 
 <script src="https://giscus.app/client.js"
         data-repo="Mjvolk3/Mjvolk3"
