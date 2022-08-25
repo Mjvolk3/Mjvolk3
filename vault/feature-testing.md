@@ -2,7 +2,7 @@
 id: 14eo221bhkk4w9lk1h9rjpd
 title: Feature Testing
 desc: ''
-updated: 1661371792879
+updated: 1661454350073
 created: 1661350448945
 ---
 
@@ -38,6 +38,7 @@ $$\sum_{i}^{\infty}$$
         data-input-position="bottom"
         data-theme="preferred_color_scheme"
         data-lang="en"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
